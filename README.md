@@ -71,19 +71,19 @@ The project was designed to simulate a real business intelligence workflow used 
 
 ## Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 
 ## Revenue Forecast
 
-![Forecast](screenshots/forecast.png)
+![Forecast](screenshots/Forecast.png)
 
 ---
 
 ## Customer Segmentation
 
-![Segmentation](screenshots/segmentation.png)
+![Segmentation](screenshots/Segmentation.png)
 
 ---
 
@@ -103,9 +103,9 @@ ecommerce-sales-dashboard/
 ├── models/
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   ├── forecast.png
-│   └── segmentation.png
+│   ├── Dashboard.png
+│   ├── Forecast.png
+│   └── Segmentation.png
 │
 ├── requirements.txt
 │
